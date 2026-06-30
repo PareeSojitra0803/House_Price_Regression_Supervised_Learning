@@ -287,13 +287,13 @@ Among all evaluated models, **XGBoost Regressor** achieved the highest predictiv
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/house-price-regression-supervised-learning.git
+git clone https://github.com/PareeSojitra0803/House_Price_Regression_Supervised_Learning.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd house-price-regression-supervised-learning
+cd House_Price_Regression_Supervised_Learning
 ```
 
 Install the required dependencies:
