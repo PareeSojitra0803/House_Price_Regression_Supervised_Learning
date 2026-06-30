@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+scikit-learn
+xgboost
+joblib
+shap
+
+jupyter
+ipykernel
+notebook
