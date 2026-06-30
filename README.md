@@ -20,13 +20,6 @@ An End-to-End Machine Learning Regression Pipeline for Residential House Price P
 
 Predicting residential property prices using **Linear Regression, Ridge Regression, Lasso Regression, Random Forest, and XGBoost**, combined with feature engineering, hyperparameter tuning, model interpretation, and deployment-ready pipelines.
 
----
-
-## 🌐 Live Demo
-
-🚀 **Streamlit Web Application**
-
-> *(Deployment link will be added after Streamlit deployment.)*
 
 ---
 
