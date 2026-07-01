@@ -29,6 +29,14 @@ Predicting residential property prices using **Linear Regression, Ridge Regressi
 👉 **Try the Web Application:** 
 [House Price Prediction WebApp](https://house-price-prediction-webapp.streamlit.app/)
 
+---
+
+## 🎥 Project Demonstration
+
+A complete walkthrough of the project covering the notebook, model training, evaluation, GitHub repository, and web application.
+
+📹 **Project Demo Video:**  
+https://drive.google.com/file/d/1qAc-wc_-ln8N9FICaMZEO7c1ZzHC-emq/view?usp=drive_link
 
 
 ---
@@ -86,7 +94,7 @@ Multiple regression algorithms are evaluated, with the final model selected base
 | **Model Interpretation** | SHAP |
 | **Model Serialization** | Joblib |
 | **Development Environment** | Jupyter Notebook, VS Code |
-| **Deployment** | Streamlit *(Coming Soon)* |
+| **Deployment** | Streamlit Community Cloud |
 
 ---
 
@@ -353,7 +361,7 @@ The current project establishes a complete supervised learning pipeline for hous
 | **Model Explainability** | SHAP |
 | **Model Serialization** | Joblib |
 | **Development Environment** | Jupyter Notebook, VS Code |
-| **Deployment** | Streamlit *(Planned)* |
+| **Deployment** | Streamlit Community Cloud |
 
 
 ---
